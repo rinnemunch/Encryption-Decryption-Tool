@@ -19,3 +19,7 @@ foreach (char c in input)
         encrypted += c;
     }
 }
+
+Console.WriteLine(); 
+Console.WriteLine("Encrypted message:");
+Console.WriteLine(encrypted);   
